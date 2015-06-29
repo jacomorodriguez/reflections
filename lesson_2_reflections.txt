@@ -1,2 +1,8 @@
 Q: What happens when you initialize a repository? Why do you need to do it?
+
 Git creates the .git folder and its neccessary files. No commites are made, but everything in this directory gets setup for feature works with git.
+
+Q:
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The staging are contains only the changed files which were added to the "next" commit. The working directory contains all files, with all changes. The repository contains only the old version of the files.
