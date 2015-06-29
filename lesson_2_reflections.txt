@@ -1,0 +1,2 @@
+Q: What happens when you initialize a repository? Why do you need to do it?
+Git creates the .git folder and its neccessary files. No commites are made, but everything in this directory gets setup for feature works with git.
