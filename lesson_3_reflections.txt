@@ -1,1 +1,18 @@
+Q:
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
+A:
+A commit not neccesarly contains all changes for a new features - if your commits automaticly get pushed to GitHub your remote repo could be a not working version.
+
+Q:
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+A:
+Fork - a clone on GitHub (use on GitHub)
+Clone - A identical copy of a repo (completly differnet version)
+branch - a second version of the files in your repo (develope features/bugfixes/etc)
+
+Q:
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+...
